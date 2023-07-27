@@ -1,2 +1,2 @@
 # sensitivity_analysis_capstone
- This is my capstone project
+I conducted sensitivity analysis and cosine similarity analysis of over 72,000 tweets that originated in the U.S. during 2022-23 as my capstone project for the Data Analytics Immersive boot camp at General Academy. I utilized the Kaggle dataset of Global Political tweets contains 238,646 rows each representing a tweet and 13 columns, namely: user_name, user_location, user_description, user_created, user_followers, user_friends, user_favourites, user_verified, date, text, hashtags, source, is_retweet. This repository contains all the Jupyter notebooks regarding this project. 
